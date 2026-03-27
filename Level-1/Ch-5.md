@@ -147,12 +147,6 @@ Like ordering food:
 
 ![Image](https://cdn-icons-png.flaticon.com/512/8243/8243064.png)
 
-![Image](https://files.realpython.com/media/waveform_static_plot.ef4f29c21340.png)
-
-![Image](https://dimg.wavevisual.com/v3/queen-bohemian-rhapsody.png?width=3840)
-
-![Image](https://cdni.iconscout.com/illustration/premium/thumb/girl-presenting-music-folder-illustration-svg-download-png-12194038.png)
-
 Playing is useful, but saving is important.
 
 ---
@@ -252,18 +246,3 @@ Generate 3 versions:
 
 ---
 
-## 🚀 What’s Next?
-
-In the next chapter:
-
-➡️ You will learn **advanced prompt control**
-➡️ Style, genre, emotion, instruments in detail
-
----
-
-If you want, I can:
-
-* Give you a **prompt cheat sheet (very powerful)**
-* Or show how to **generate longer music tracks**
-
-Just tell me 👍
