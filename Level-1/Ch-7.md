@@ -217,13 +217,7 @@ Like tasting tea:
 
 ## 🔁 6. Iteration Cycle (Golden Process)
 
-![Image](https://creately.com/static/assets/guides/how-to-master-the-iterative-process/hero.webp)
-
 ![Image](https://cdn.prod.website-files.com/631a5987aadcff365f4aeed5/673800b7d5b1010043af9112_2a8ca82e-8a14-405f-9c5c-e660e59767ce.png)
-
-![Image](https://screencloud.com/_next/image?q=75\&url=https%3A%2F%2Fimages.prismic.io%2Fscreencloud%2FZn6inh5LeNNTwn82_Feedbackloop3.jpg%3Fauto%3Dformat%2Ccompress\&w=3840)
-
-![Image](https://cdn.prod.website-files.com/631a5987aadcff365f4aeed5/673800b72aa3b51fcbc3d0a7_2d194f7e-0997-4ee2-b814-eca613ed3923.png)
 
 ### Follow this loop:
 
