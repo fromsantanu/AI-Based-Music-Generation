@@ -12,9 +12,6 @@
 
 ## 🎵 1. From Prompt → Music (Core Idea)
 
-![Image](https://www.mdpi.com/electronics/electronics-14-01197/article_deploy/html/images/electronics-14-01197-g011-550.jpg)
-
-![Image](https://thisisimportant.net/images/2022/10/generate-music-staff.png)
 
 ![Image](https://docs.lunarbase.ai/assets/images/ai_music_graph-04cd8b8efd9099633e510bc153bd3329.png)
 
