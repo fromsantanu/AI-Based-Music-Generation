@@ -15,14 +15,6 @@
 
 ## 🎵 1. What is AI-Generated Music?
 
-![Image](https://www.researchgate.net/publication/320073044/figure/fig1/AS%3A556436090769410%401509676110246/Concept-map-for-automatic-music-generation-systems.png)
-
-![Image](https://cdni.iconscout.com/illustration/premium/thumb/music-composer-creating-and-recording-music-at-the-workplace-illustration-svg-download-png-6084370.png)
-
-![Image](https://dimg.wavevisual.com/v3/queen-bohemian-rhapsody.png?width=3840)
-
-![Image](https://ma-hub.imgix.net/wp-images/2020/07/15231555/Video-Effects-Audio-Visualizer.jpg)
-
 ### Simple Idea
 
 AI-generated music is **music created by a computer instead of a human**.
@@ -68,14 +60,6 @@ Think of a student learning music:
 
 ## ⚙️ 2. How Does AI Create Music? (Very Simple View)
 
-![Image](https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41598-025-13064-6/MediaObjects/41598_2025_13064_Fig1_HTML.png)
-
-![Image](https://www.researchgate.net/publication/364312529/figure/fig6/AS%3A11431281089385983%401665534043112/Flow-chart-of-music-generation-training.jpg)
-
-![Image](https://miro.medium.com/1%2ATeJwkQPdB8w7NHGOUDM18A.png)
-
-![Image](https://www.researchgate.net/publication/342055038/figure/fig1/AS%3A962110620184581%401606396455281/Music-composition-neutral-network-MCNN-In-this-mixed-network-LSTM-works-as-a.png)
-
 Let’s break it into 3 simple steps:
 
 ### Step 1: Learning
@@ -114,14 +98,6 @@ There are **two main types**:
 ---
 
 ## 🧩 Type 1: Symbolic Music Systems
-
-![Image](https://www.researchgate.net/publication/351747626/figure/fig6/AS%3A1025830947938304%401621588565563/Piano-roll-representation-of-a-MIDI-file-We-visualize-the-first-four-measures-of-the.png)
-
-![Image](https://cdn.britannica.com/44/160744-050-3A4864F4/canon-English-Sumer-music-staff-notation.jpg)
-
-![Image](https://cdn.mos.cms.futurecdn.net/uhabCbrA8sN8kPLkX6WJBh.png)
-
-![Image](https://cdn.mos.cms.futurecdn.net/5uMKLghoNMSpLfa4YPaWNm.jpg)
 
 ### What it means
 
@@ -179,14 +155,6 @@ But it does NOT produce sound by itself.
 ---
 
 ## 🔊 Type 2: Audio-Based Systems (Like MusicGen)
-
-![Image](https://wave-editor.com/screenshot.png)
-
-![Image](https://media.easy-peasy.ai/27feb2bb-aeb4-4a83-9fb6-8f3f2a15885e/27c45b35-9e2a-4936-82ff-0ec9932d7ee9.png)
-
-![Image](https://upload.wikimedia.org/wikipedia/commons/c/c5/Spectrogram-19thC.png)
-
-![Image](https://benlevinson.com/resources/images/Spectrogram/foobar-vis.jpg)
 
 ### What it means
 
@@ -264,14 +232,5 @@ Because:
 2. **Play music directly (audio)**
 
 👉 **MusicGen belongs to the second type**
-
----
-
-## 🚀 What’s Next?
-
-In the next chapter, you will:
-
-➡️ Install and run MusicGen
-➡️ Generate your **first AI music clip**
 
 ---
