@@ -32,7 +32,7 @@ ai-music-generation-course/
 
 ## 🟢 LEVEL 1: Use MusicGen (Foundation)
 
-### 🎹 Goal: Understand **text → music generation**
+##### 🎹 Goal: Understand **text → music generation**
 
 ### 📘 Chapters
 
@@ -50,12 +50,12 @@ ai-music-generation-course/
 
 #### 1.7 Experimentation Exercises
 
-####
+<br>
 
 
 ## 🟡 LEVEL 2: Control & Understanding
 
-### 🎼 Goal: Move from **user → controller**
+##### 🎼 Goal: Move from **user → controller**
 
 ### 📘 Chapters
 
@@ -73,12 +73,12 @@ ai-music-generation-course/
 
 #### 2.7 Mini Project
 
-####
+<br>
 
 
 ## 🔵 LEVEL 3: Build Multi-Model System (Mini Suno)
 
-### 🎬 Goal: Create a **complete music pipeline**
+##### 🎬 Goal: Create a **complete music pipeline**
 
 ### 📘 Chapters
 
@@ -96,12 +96,12 @@ ai-music-generation-course/
 
 #### 3.7 Mini Project
 
-####
+<br>
 
 
 ## 🔴 LEVEL 4: Advanced & Research
 
-### 🧠 Goal: Understand deeply + innovate
+##### 🧠 Goal: Understand deeply + innovate
 
 ### 📘 Chapters
 
@@ -119,9 +119,9 @@ ai-music-generation-course/
 
 #### 4.7 Research Directions
 
-####
+<br>
 
-## 📁 PROJECTS FOLDER (Very Important)
+## 📁 PROJECTS FOLDER 
 
 ### Suggested Projects:
 
