@@ -145,9 +145,7 @@ Like ordering food:
 
 ## 💾 5. Saving the Audio File
 
-![Image](https://cdn-icons-png.flaticon.com/512/8243/8243064.png)
-
-Playing is useful, but saving is important.
+Playing is useful, but **saving is important**.
 
 ---
 
