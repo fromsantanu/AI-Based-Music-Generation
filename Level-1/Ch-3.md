@@ -78,11 +78,6 @@ If you see:
 
 ## 🔄 3. How Sound Becomes a Spectrogram
 
-![Image](https://www.researchgate.net/publication/262694263/figure/fig2/AS%3A214358484361229%401428118453835/A-Waveform-B-spectrogram-C-amplitude-envelope-and-D-diagram-of-stimulus-S1-cf.png)
-
-![Image](https://jpfile1.oss-accelerate.aliyuncs.com/allpcb/web/image/20250925/6389441248451175964660887.gif)
-
-![Image](https://www.researchgate.net/publication/44126806/figure/fig1/AS%3A452113240203265%401484803604886/Conceptual-depiction-of-the-decomposition-of-sound-into-constituent-frequencies-by-the.png)
 
 ![Image](https://speechprocessingbook.aalto.fi/_images/1482949661.png)
 
