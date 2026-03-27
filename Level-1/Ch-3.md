@@ -13,11 +13,7 @@
 
 ## 🔊 1. From Sound → Image (The Big Idea)
 
-![Image](https://upload.wikimedia.org/wikipedia/commons/c/c5/Spectrogram-19thC.png)
 
-![Image](https://www.researchgate.net/publication/333834541/figure/fig1/AS%3A770963989872642%401560823547504/Waveform-spectrogram-and-mel-spectrogram-of-a-10-s-speech-segment-obtained-from-Google.png)
-
-![Image](https://www.researchgate.net/publication/41136664/figure/fig1/AS%3A670052474949638%401536764367172/A-frequency-vs-time-spectrogram-with-relative-intensity-color-coded-in-decibels-and-a.png)
 
 ![Image](https://cdn.prod.website-files.com/5d2dd7e1b4a76d8b803ac1aa/6374abd3947ed23086c6a404_LZmoLh6Yk7dQj4_oxnWiMZqZdq_D7mhfFLp-zupwUSXGpIxNTb_7RxxoZoC0uevq5hWYaMxJC3xGHyENIkSyG1y4VIXl2SsV80UUrZjUdX6csw-_7RUs2_FM96XbqFF2XeOEF03xUvTDOQpJQa70XhERR6mVZzreYmHS0TZHavrT9EO4Swp9H2frxbRQ.png)
 
