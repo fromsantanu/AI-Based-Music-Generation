@@ -36,19 +36,19 @@ ai-music-generation-course/
 
 ### 📘 Chapters
 
-#### 1.1 Introduction to AI Music
+#### 1.1 [Introduction to AI Music](https://github.com/fromsantanu/AI-Based-Music-Generation/blob/main/Level-1/Ch-1.md)
 
-#### 1.2 Audio Basics (Simple)
+#### 1.2 [Audio Basics (Simple)](https://github.com/fromsantanu/AI-Based-Music-Generation/blob/main/Level-1/Ch-2.md)
 
-#### 1.3 Spectrograms (Important intuition)
+#### 1.3 [Spectrograms (Important intuition)](https://github.com/fromsantanu/AI-Based-Music-Generation/blob/main/Level-1/Ch-3.md)
 
-#### 1.4 Installing & Running MusicGen
+#### 1.4 [Installing & Running MusicGen](https://github.com/fromsantanu/AI-Based-Music-Generation/blob/main/Level-1/Ch-4.md)
 
-#### 1.5 First Music Generation
+#### 1.5 [First Music Generation](https://github.com/fromsantanu/AI-Based-Music-Generation/blob/main/Level-1/Ch-5.md)
 
-#### 1.6 Prompt Engineering Basics
+#### 1.6 [Prompt Engineering Basics](https://github.com/fromsantanu/AI-Based-Music-Generation/blob/main/Level-1/Ch-6.md)
 
-#### 1.7 Experimentation Exercises
+#### 1.7 [Experimentation Exercises](https://github.com/fromsantanu/AI-Based-Music-Generation/blob/main/Level-1/Ch-7.md)
 
 <br>
 
