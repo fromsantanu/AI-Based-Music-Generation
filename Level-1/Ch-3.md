@@ -117,12 +117,6 @@ This process is usually done using something called:
 
 ## 🤖 4. Why AI Uses Spectrograms
 
-![Image](https://www.researchgate.net/publication/358044127/figure/fig4/AS%3A1144942223212547%401649986906812/Heat-map-of-the-deep-learning-model-The-white-arrows-point-to-crucial-areas.png)
-
-![Image](https://i.sstatic.net/n04ed.png)
-
-![Image](https://www.mdpi.com/data/data-07-00168/article_deploy/html/images/data-07-00168-g001.png)
-
 ![Image](https://www.mathworks.com/help/examples/deeplearning_shared/win64/InvestigateAudioPredictionsUsingInterpretabilityMethodsExample_03.png)
 
 ### Core Reason
