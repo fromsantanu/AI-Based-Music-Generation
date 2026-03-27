@@ -13,13 +13,7 @@
 
 ## 🔊 1. What is Sound?
 
-![Image](https://home.cc.umanitoba.ca/~krussll/phonetics/acoustic/img/sine1.png)
-
-![Image](https://demo.webassign.net/ebooks/cj6demo/art/images/c16/nw0634-n.gif)
-
 ![Image](https://www.noaa.gov/sites/default/files/2022-03/wavedescription.png)
-
-![Image](https://wiki.anton-paar.com/fileadmin/wiki/images/Basics_of_waves/basics-of-waves.jpg)
 
 ### Simple Idea
 
