@@ -12,10 +12,7 @@
 
 ## 🎵 1. From Prompt → Music (Core Idea)
 
-
 ![Image](https://docs.lunarbase.ai/assets/images/ai_music_graph-04cd8b8efd9099633e510bc153bd3329.png)
-
-![Image](https://miro.medium.com/v2/resize%3Afit%3A1200/1%2AKPfeiLOHnXMnAapM3waunw.png)
 
 ### Simple Idea
 
