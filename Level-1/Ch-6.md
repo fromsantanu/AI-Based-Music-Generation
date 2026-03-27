@@ -89,12 +89,6 @@ sad piano melody
 
 ![Image](https://i.pinimg.com/474x/86/b3/27/86b327662192098c0cf214f6d620389e.jpg)
 
-![Image](https://images.unsplash.com/photo-1755212488860-bda1d76a35fa?fm=jpg\&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDJ8fHxlbnwwfHx8fHw%3D\&ixlib=rb-4.1.0\&q=60\&w=3000)
-
-![Image](https://www.yamaha.com/en/musical_instrument_guide/common/images/acoustic_guitar/mechanism_p03_03.jpg)
-
-![Image](https://i.pinimg.com/736x/40/f7/65/40f7656282186b7579f4f42eaaa632d5.jpg)
-
 ### What is Instrument?
 
 Instrument is:
