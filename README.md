@@ -59,19 +59,19 @@ ai-music-generation-course/
 
 ### 📘 Chapters
 
-#### 2.1 Inside MusicGen (Conceptual)
+#### 2.1 [Inside MusicGen (Conceptual)](#)
 
-#### 2.2 Generation Parameters
+#### 2.2 [Generation Parameters](#)
 
-#### 2.3 Prompt Engineering Advanced
+#### 2.3 [Prompt Engineering Advanced](#)
 
-#### 2.4 Music Structure Understanding
+#### 2.4 [Music Structure Understanding](#)
 
-#### 2.5 Limitations of MusicGen
+#### 2.5 [Limitations of MusicGen](#)
 
-#### 2.6 Debugging Outputs
+#### 2.6 [Debugging Outputs](#)
 
-#### 2.7 Mini Project
+#### 2.7 [Mini Project](#)
 
 <br>
 
@@ -82,19 +82,19 @@ ai-music-generation-course/
 
 ### 📘 Chapters
 
-#### 3.1 System Design Overview
+#### 3.1 [System Design Overview](#)
 
-#### 3.2 Lyrics Generation
+#### 3.2 [Lyrics Generation](#)
 
-#### 3.3 Voice Generation Basics
+#### 3.3 [Voice Generation Basics](#)
 
-#### 3.4 Combining Music + Voice
+#### 3.4 [Combining Music + Voice](#)
 
-#### 3.5 Audio Processing
+#### 3.5 [Audio Processing](#)
 
-#### 3.6 Backend Integration
+#### 3.6 [Backend Integration](#)
 
-#### 3.7 Mini Project
+#### 3.7 [Mini Project](#)
 
 <br>
 
@@ -105,19 +105,19 @@ ai-music-generation-course/
 
 ### 📘 Chapters
 
-#### 4.1 Diffusion Models for Audio
+#### 4.1 [Diffusion Models for Audio](#)
 
-#### 4.2 Latent Audio Representation
+#### 4.2 [Latent Audio Representation](#)
 
-#### 4.3 Training a Small Model
+#### 4.3 [Training a Small Model](#)
 
-#### 4.4 Evaluation of Music AI
+#### 4.4 [Evaluation of Music AI](#)
 
-#### 4.5 Style Transfer in Music
+#### 4.5 [Style Transfer in Music](#)
 
-#### 4.6 Optimization & Deployment
+#### 4.6 [Optimization & Deployment](#)
 
-#### 4.7 Research Directions
+#### 4.7 [Research Directions](#)
 
 <br>
 
