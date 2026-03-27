@@ -217,8 +217,6 @@ Like tasting tea:
 
 ## 🔁 6. Iteration Cycle (Golden Process)
 
-![Image](https://cdn.prod.website-files.com/631a5987aadcff365f4aeed5/673800b7d5b1010043af9112_2a8ca82e-8a14-405f-9c5c-e660e59767ce.png)
-
 ### Follow this loop:
 
 1. Write prompt
