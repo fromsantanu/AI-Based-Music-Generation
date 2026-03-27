@@ -223,18 +223,3 @@ This is where everything connects.
 
 ---
 
-## 🚀 What’s Next?
-
-In the next chapter:
-
-➡️ You will start working with **MusicGen directly**
-➡️ Generate your **first AI music using prompts**
-
----
-
-If you want, I can also:
-
-* Show a **small Python example** to generate a spectrogram
-* Or give a **visual exercise** to identify instruments from spectrograms
-
-Just tell me 👍
