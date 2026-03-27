@@ -308,5 +308,3 @@ Try generating:
 
 ---
 
-
-Just tell me 👍
