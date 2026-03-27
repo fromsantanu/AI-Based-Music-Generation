@@ -13,8 +13,6 @@
 
 ## 🔊 1. What is Sound?
 
-![Image](https://www.noaa.gov/sites/default/files/2022-03/wavedescription.png)
-
 ### Simple Idea
 
 Sound is just **vibration in the air**.
@@ -52,14 +50,6 @@ A sound wave looks like this:
 ---
 
 ## 🔢 2. How Does Sound Become Numbers?
-
-![Image](https://www.planetoftunes.com/digital-audio/media/sampling_in_4_bit_convertor.gif)
-
-![Image](https://www.researchgate.net/publication/349634605/figure/fig2/AS%3A1002025378648065%401615912875360/Average-waveform-visualization-of-MEG-samples-The-A-B-C-row-plots-the-average-waveform.png)
-
-![Image](https://www.researchgate.net/publication/348279288/figure/fig2/AS%3A977029931483137%401609953496906/Digital-signal-processing-for-acoustic-signals-The-acoustic-signal-is-converted-into-an.ppm)
-
-![Image](https://www.researchgate.net/publication/349112350/figure/fig1/AS%3A988967109423105%401612799541817/Basic-settings-and-signal-flow-of-the-Digital-Audio-Workstation-component-3.ppm)
 
 Computers cannot understand waves directly.
 
@@ -102,14 +92,6 @@ Wave → 0.2, 0.5, -0.3, 0.8, -0.1 ...
 ---
 
 ## ⏱️ 3. What is Sampling?
-
-![Image](https://www.researchgate.net/publication/339683858/figure/fig2/AS%3A11431281179028323%401691146620490/Timing-diagram-for-signal-sampling-and-transmission.png)
-
-![Image](https://www.researchgate.net/publication/343107118/figure/fig3/AS%3A915762898296833%401595346297576/Sampling-Rate-44100-Hz-Signal-Frequency-250-Hz-Greatest-Common-Factor-50-Hz.ppm)
-
-![Image](https://zdpdvwhvukelzzbzbjvh.supabase.co/storage/v1/object/public/imported-images/1769121309714-12148485-1bf8-4fda-a4b3-1547ed37388d-c38dpn.webp)
-
-![Image](https://www.researchgate.net/publication/377114455/figure/fig3/AS%3A11431281215641323%401704339589034/Waveform-visualization-for-different-audio-samples-for-each-class-present-UrbanSound8K.png)
 
 ### Simple Idea
 
@@ -156,14 +138,6 @@ Because sound changes very fast.
 ---
 
 ## 🧠 4. Why AI Uses Numbers (Not Sound Directly)
-
-![Image](https://www.jeremyjordan.me/content/images/2018/01/Screen-Shot-2017-11-07-at-12.32.19-PM.png)
-
-![Image](https://images.squarespace-cdn.com/content/v1/618131cf8cd8e779321e9666/39ad6077-d2fa-4d35-b467-13d49015f428/is%2Bit%2Ball%2Bjust%2Bai%3F)
-
-![Image](https://files.realpython.com/media/speechcomands-sample-waveform.8b822e0967d2.png)
-
-![Image](https://www.altexsoft.com/static/blog-post/2023/11/01ccbc9f-15fe-4650-9df7-c4b9f1e51ce7.jpg)
 
 ### Core Idea
 
@@ -254,9 +228,3 @@ In the next chapter, you will:
 
 ---
 
-If you want, I can also add:
-
-* Small practice exercises (very helpful)
-* Simple Python demo showing waveform → numbers
-
-Just tell me 👍
