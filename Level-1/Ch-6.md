@@ -141,12 +141,6 @@ happy guitar melody
 
 ![Image](https://cdn.vectorstock.com/i/500p/35/17/music-genre-icon-set-diverse-styles-vector-60303517.jpg)
 
-![Image](https://media.ipassio.com/media/ckeditor_image/2024/09/26/hrithik-roshan-image-source-from-facebook.webp)
-
-![Image](https://m.media-amazon.com/images/I/718lGEvBseL._AC_UF1000%2C1000_QL80_.jpg)
-
-![Image](https://m.media-amazon.com/images/I/61qTjRD1PGL._AC_UF1000%2C1000_QL80_.jpg)
-
 ### What is Style?
 
 Style means:
@@ -320,18 +314,5 @@ Try generating:
 
 ---
 
-## 🚀 What’s Next?
-
-In the next chapter:
-
-➡️ You will learn **advanced prompt techniques**
-➡️ Add details like tempo, environment, and layering
-
----
-
-If you want, I can create:
-
-* A **ready prompt library (very powerful for teaching)**
-* Or exercises for students to practice step-by-step
 
 Just tell me 👍
