@@ -16,11 +16,10 @@ Same as your mapping:
 ```id="g4r2ak"
 ai-music-generation-course/
 │
-├── 00_introduction/
-├── 01_level1_musicgen_basics/
-├── 02_level2_control_and_understanding/
-├── 03_level3_building_systems/
-├── 04_level4_advanced_and_research/
+├── Level-1/
+├── Level-2/
+├── Level-3/
+├── Level-4/
 │
 ├── projects/
 ├── datasets/
@@ -31,117 +30,120 @@ ai-music-generation-course/
 ---
 
 
-# 🟢 LEVEL 1: Use MusicGen (Foundation)
+## 🟢 LEVEL 1: Use MusicGen (Foundation)
 
-## 🎹 Goal: Understand **text → music generation**
+### 🎹 Goal: Understand **text → music generation**
 
-## 📘 Chapters
+### 📘 Chapters
 
-### 1.1 Introduction to AI Music
+#### 1.1 Introduction to AI Music
 
-### 1.2 Audio Basics (Simple)
+#### 1.2 Audio Basics (Simple)
 
-### 1.3 Spectrograms (Important intuition)
+#### 1.3 Spectrograms (Important intuition)
 
-### 1.4 Installing & Running MusicGen
+#### 1.4 Installing & Running MusicGen
 
-### 1.5 First Music Generation
+#### 1.5 First Music Generation
 
-### 1.6 Prompt Engineering Basics
+#### 1.6 Prompt Engineering Basics
 
-### 1.7 Experimentation Exercises
+#### 1.7 Experimentation Exercises
 
-
-
-# 🟡 LEVEL 2: Control & Understanding
-
-## 🎼 Goal: Move from **user → controller**
-
-## 📘 Chapters
-
-### 2.1 Inside MusicGen (Conceptual)
-
-### 2.2 Generation Parameters
-
-### 2.3 Prompt Engineering Advanced
-
-### 2.4 Music Structure Understanding
-
-### 2.5 Limitations of MusicGen
-
-### 2.6 Debugging Outputs
-
-### 2.7 Mini Project
+####
 
 
+## 🟡 LEVEL 2: Control & Understanding
 
-# 🔵 LEVEL 3: Build Multi-Model System (Mini Suno)
+### 🎼 Goal: Move from **user → controller**
 
-## 🎬 Goal: Create a **complete music pipeline**
+### 📘 Chapters
 
-## 📘 Chapters
+#### 2.1 Inside MusicGen (Conceptual)
 
-### 3.1 System Design Overview
+#### 2.2 Generation Parameters
 
-### 3.2 Lyrics Generation
+#### 2.3 Prompt Engineering Advanced
 
-### 3.3 Voice Generation Basics
+#### 2.4 Music Structure Understanding
 
-### 3.4 Combining Music + Voice
+#### 2.5 Limitations of MusicGen
 
-### 3.5 Audio Processing
+#### 2.6 Debugging Outputs
 
-### 3.6 Backend Integration
+#### 2.7 Mini Project
 
-### 3.7 Mini Project
-
-
-
-# 🔴 LEVEL 4: Advanced & Research
-
-## 🧠 Goal: Understand deeply + innovate
-
-## 📘 Chapters
-
-### 4.1 Diffusion Models for Audio
-
-### 4.2 Latent Audio Representation
-
-### 4.3 Training a Small Model
-
-### 4.4 Evaluation of Music AI
-
-### 4.5 Style Transfer in Music
-
-### 4.6 Optimization & Deployment
-
-### 4.7 Research Directions
+####
 
 
+## 🔵 LEVEL 3: Build Multi-Model System (Mini Suno)
 
-# 📁 PROJECTS FOLDER (Very Important)
+### 🎬 Goal: Create a **complete music pipeline**
 
-## Suggested Projects:
+### 📘 Chapters
 
-### 🟢 Beginner
+#### 3.1 System Design Overview
+
+#### 3.2 Lyrics Generation
+
+#### 3.3 Voice Generation Basics
+
+#### 3.4 Combining Music + Voice
+
+#### 3.5 Audio Processing
+
+#### 3.6 Backend Integration
+
+#### 3.7 Mini Project
+
+####
+
+
+## 🔴 LEVEL 4: Advanced & Research
+
+### 🧠 Goal: Understand deeply + innovate
+
+### 📘 Chapters
+
+#### 4.1 Diffusion Models for Audio
+
+#### 4.2 Latent Audio Representation
+
+#### 4.3 Training a Small Model
+
+#### 4.4 Evaluation of Music AI
+
+#### 4.5 Style Transfer in Music
+
+#### 4.6 Optimization & Deployment
+
+#### 4.7 Research Directions
+
+####
+
+## 📁 PROJECTS FOLDER (Very Important)
+
+### Suggested Projects:
+
+#### 🟢 Beginner
 
 * Prompt-based music generator
 
 ---
 
-### 🟡 Intermediate
+#### 🟡 Intermediate
 
 * Multi-style generator
 
 ---
 
-### 🔵 Advanced
+#### 🔵 Advanced
 
 * Mini Suno system
 
 ---
 
-### 🔴 Expert
+#### 🔴 Expert
 
 * Regional AI music system (e.g., Bengali/Raga-based)
 
