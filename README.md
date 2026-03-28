@@ -5,7 +5,7 @@
 
 ## 🟢 LEVEL 1: Using AI Music Systems (Suno Foundation)
 
-##### 🎯 Goal: Understand **text → music generation using Suno**
+#### 🎯 Goal: Understand **text → music generation using Suno**
 
 ---
 
@@ -29,7 +29,7 @@
 
 ## 🟡 LEVEL 2: Control & Reverse Engineering
 
-##### 🎯 Goal: Move from **user → controller**
+#### 🎯 Goal: Move from **user → controller**
 
 ---
 
@@ -53,7 +53,7 @@
 
 ## 🔵 LEVEL 3: Building AI Music Systems (Mini Suno)
 
-##### 🎯 Goal: Create a **complete music generation pipeline**
+#### 🎯 Goal: Create a **complete music generation pipeline**
 
 ---
 
@@ -81,7 +81,7 @@
 
 ## 🔴 LEVEL 4: Model-Level Understanding & Innovation
 
-##### 🎯 Goal: Understand deeply + design + innovate
+#### 🎯 Goal: Understand deeply + design + innovate
 
 ---
 
