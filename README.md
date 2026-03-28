@@ -111,6 +111,7 @@
 4.10 System Design Thinking (Design your own AI music system)
 
 ---
+<br>
 
 # 📁 PROJECT TRACK (Capstone)
 
