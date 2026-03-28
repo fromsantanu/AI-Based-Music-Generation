@@ -59,19 +59,19 @@ ai-music-generation-course/
 
 ### 📘 Chapters
 
-#### 2.1 [Inside MusicGen (Conceptual)](#)
+#### 2.1 [Inside MusicGen (Conceptual)](https://github.com/fromsantanu/AI-Based-Music-Generation/blob/main/Level-2/Ch-1.md)
 
-#### 2.2 [Generation Parameters](#)
+#### 2.2 [Generation Parameters](https://github.com/fromsantanu/AI-Based-Music-Generation/blob/main/Level-2/Ch-2.md)
 
-#### 2.3 [Prompt Engineering Advanced](#)
+#### 2.3 [Prompt Engineering Advanced](https://github.com/fromsantanu/AI-Based-Music-Generation/blob/main/Level-2/Ch-3.md)
 
-#### 2.4 [Music Structure Understanding](#)
+#### 2.4 [Music Structure Understanding](https://github.com/fromsantanu/AI-Based-Music-Generation/blob/main/Level-2/Ch-4.md)
 
-#### 2.5 [Limitations of MusicGen](#)
+#### 2.5 [Limitations of MusicGen](https://github.com/fromsantanu/AI-Based-Music-Generation/blob/main/Level-2/Ch-5.md)
 
-#### 2.6 [Debugging Outputs](#)
+#### 2.6 [Debugging Outputs](https://github.com/fromsantanu/AI-Based-Music-Generation/blob/main/Level-2/Ch-6.md)
 
-#### 2.7 [Mini Project](#)
+#### 2.7 [Mini Project](https://github.com/fromsantanu/AI-Based-Music-Generation/blob/main/Level-2/Ch-7.md)
 
 <br>
 
@@ -82,19 +82,19 @@ ai-music-generation-course/
 
 ### 📘 Chapters
 
-#### 3.1 [System Design Overview](#)
+#### 3.1 [System Design Overview](https://github.com/fromsantanu/AI-Based-Music-Generation/blob/main/Level-3/Ch-1.md)
 
-#### 3.2 [Lyrics Generation](#)
+#### 3.2 [Lyrics Generation](https://github.com/fromsantanu/AI-Based-Music-Generation/blob/main/Level-3/Ch-2.md)
 
-#### 3.3 [Voice Generation Basics](#)
+#### 3.3 [Voice Generation Basics](https://github.com/fromsantanu/AI-Based-Music-Generation/blob/main/Level-3/Ch-3.md)
 
-#### 3.4 [Combining Music + Voice](#)
+#### 3.4 [Combining Music + Voice](https://github.com/fromsantanu/AI-Based-Music-Generation/blob/main/Level-3/Ch-4.md)
 
-#### 3.5 [Audio Processing](#)
+#### 3.5 [Audio Processing](https://github.com/fromsantanu/AI-Based-Music-Generation/blob/main/Level-3/Ch-5.md)
 
-#### 3.6 [Backend Integration](#)
+#### 3.6 [Backend Integration](https://github.com/fromsantanu/AI-Based-Music-Generation/blob/main/Level-3/Ch-6.md)
 
-#### 3.7 [Mini Project](#)
+#### 3.7 [Mini Project](https://github.com/fromsantanu/AI-Based-Music-Generation/blob/main/Level-3/Ch-7.md)
 
 <br>
 
@@ -105,19 +105,19 @@ ai-music-generation-course/
 
 ### 📘 Chapters
 
-#### 4.1 [Diffusion Models for Audio](#)
+#### 4.1 [Diffusion Models for Audio](https://github.com/fromsantanu/AI-Based-Music-Generation/blob/main/Level-4/Ch-1.md)
 
-#### 4.2 [Latent Audio Representation](#)
+#### 4.2 [Latent Audio Representation](https://github.com/fromsantanu/AI-Based-Music-Generation/blob/main/Level-4/Ch-2.md)
 
-#### 4.3 [Training a Small Model](#)
+#### 4.3 [Training a Small Model](https://github.com/fromsantanu/AI-Based-Music-Generation/blob/main/Level-4/Ch-3.md)
 
-#### 4.4 [Evaluation of Music AI](#)
+#### 4.4 [Evaluation of Music AI](https://github.com/fromsantanu/AI-Based-Music-Generation/blob/main/Level-4/Ch-4.md)
 
-#### 4.5 [Style Transfer in Music](#)
+#### 4.5 [Style Transfer in Music](https://github.com/fromsantanu/AI-Based-Music-Generation/blob/main/Level-4/Ch-5.md)
 
-#### 4.6 [Optimization & Deployment](#)
+#### 4.6 [Optimization & Deployment](https://github.com/fromsantanu/AI-Based-Music-Generation/blob/main/Level-4/Ch-6.md)
 
-#### 4.7 [Research Directions](#)
+#### 4.7 [Research Directions](https://github.com/fromsantanu/AI-Based-Music-Generation/blob/main/Level-4/Ch-7.md)
 
 <br>
 
