@@ -1,131 +1,123 @@
-# AI-Based-Music-Generation
 
-## 🎯 Guiding Philosophy
-
-* 🎹 Learn to generate
-* 🎼 Learn to control
-* 🎬 Learn to build systems
-* 🧠 Learn to innovate
+# 📚 AI-Based Music Generation — Table of Contents
 
 ---
 
+## 🟢 LEVEL 1: Using AI Music Systems (Suno Foundation)
 
-## 🟢 LEVEL 1: Use MusicGen (Foundation)
-
-##### 🎹 Goal: Understand **text → music generation**
-
-### 📘 Chapters
-
-#### 1.1 [Introduction to AI Music](https://github.com/fromsantanu/AI-Based-Music-Generation/blob/main/Level-1/Ch-1.md)
-
-#### 1.2 [Audio Basics (Simple)](https://github.com/fromsantanu/AI-Based-Music-Generation/blob/main/Level-1/Ch-2.md)
-
-#### 1.3 [Spectrograms (Important intuition)](https://github.com/fromsantanu/AI-Based-Music-Generation/blob/main/Level-1/Ch-3.md)
-
-#### 1.4 [Installing & Running MusicGen](https://github.com/fromsantanu/AI-Based-Music-Generation/blob/main/Level-1/Ch-4.md)
-
-#### 1.5 [First Music Generation](https://github.com/fromsantanu/AI-Based-Music-Generation/blob/main/Level-1/Ch-5.md)
-
-#### 1.6 [Prompt Engineering Basics](https://github.com/fromsantanu/AI-Based-Music-Generation/blob/main/Level-1/Ch-6.md)
-
-#### 1.7 [Experimentation Exercises](https://github.com/fromsantanu/AI-Based-Music-Generation/blob/main/Level-1/Ch-7.md)
-
-<br>
-
-
-## 🟡 LEVEL 2: Control & Understanding
-
-##### 🎼 Goal: Move from **user → controller**
-
-### 📘 Chapters
-
-#### 2.1 [Inside MusicGen (Conceptual)](https://github.com/fromsantanu/AI-Based-Music-Generation/blob/main/Level-2/Ch-1.md)
-
-#### 2.2 [Generation Parameters](https://github.com/fromsantanu/AI-Based-Music-Generation/blob/main/Level-2/Ch-2.md)
-
-#### 2.3 [Prompt Engineering Advanced](https://github.com/fromsantanu/AI-Based-Music-Generation/blob/main/Level-2/Ch-3.md)
-
-#### 2.4 [Music Structure Understanding](https://github.com/fromsantanu/AI-Based-Music-Generation/blob/main/Level-2/Ch-4.md)
-
-#### 2.5 [Limitations of MusicGen](https://github.com/fromsantanu/AI-Based-Music-Generation/blob/main/Level-2/Ch-5.md)
-
-#### 2.6 [Debugging Outputs](https://github.com/fromsantanu/AI-Based-Music-Generation/blob/main/Level-2/Ch-6.md)
-
-#### 2.7 [Mini Project](https://github.com/fromsantanu/AI-Based-Music-Generation/blob/main/Level-2/Ch-7.md)
-
-<br>
-
-
-## 🔵 LEVEL 3: Build Multi-Model System (Mini Suno)
-
-##### 🎬 Goal: Create a **complete music pipeline**
-
-### 📘 Chapters
-
-#### 3.1 [System Design Overview](https://github.com/fromsantanu/AI-Based-Music-Generation/blob/main/Level-3/Ch-1.md)
-
-#### 3.2 [Lyrics Generation](https://github.com/fromsantanu/AI-Based-Music-Generation/blob/main/Level-3/Ch-2.md)
-
-#### 3.3 [Voice Generation Basics](https://github.com/fromsantanu/AI-Based-Music-Generation/blob/main/Level-3/Ch-3.md)
-
-#### 3.4 [Combining Music + Voice](https://github.com/fromsantanu/AI-Based-Music-Generation/blob/main/Level-3/Ch-4.md)
-
-#### 3.5 [Audio Processing](https://github.com/fromsantanu/AI-Based-Music-Generation/blob/main/Level-3/Ch-5.md)
-
-#### 3.6 [Backend Integration](https://github.com/fromsantanu/AI-Based-Music-Generation/blob/main/Level-3/Ch-6.md)
-
-#### 3.7 [Mini Project](https://github.com/fromsantanu/AI-Based-Music-Generation/blob/main/Level-3/Ch-7.md)
-
-<br>
-
-
-## 🔴 LEVEL 4: Advanced & Research
-
-##### 🧠 Goal: Understand deeply + innovate
-
-### 📘 Chapters
-
-#### 4.1 [Diffusion Models for Audio](https://github.com/fromsantanu/AI-Based-Music-Generation/blob/main/Level-4/Ch-1.md)
-
-#### 4.2 [Latent Audio Representation](https://github.com/fromsantanu/AI-Based-Music-Generation/blob/main/Level-4/Ch-2.md)
-
-#### 4.3 [Training a Small Model](https://github.com/fromsantanu/AI-Based-Music-Generation/blob/main/Level-4/Ch-3.md)
-
-#### 4.4 [Evaluation of Music AI](https://github.com/fromsantanu/AI-Based-Music-Generation/blob/main/Level-4/Ch-4.md)
-
-#### 4.5 [Style Transfer in Music](https://github.com/fromsantanu/AI-Based-Music-Generation/blob/main/Level-4/Ch-5.md)
-
-#### 4.6 [Optimization & Deployment](https://github.com/fromsantanu/AI-Based-Music-Generation/blob/main/Level-4/Ch-6.md)
-
-#### 4.7 [Research Directions](https://github.com/fromsantanu/AI-Based-Music-Generation/blob/main/Level-4/Ch-7.md)
-
-<br>
-
-## 📁 PROJECTS FOLDER 
-
-### Suggested Projects:
-
-#### 🟢 Beginner
-
-* [Prompt-based music generator](https://github.com/fromsantanu/AI-Based-Music-Generation/blob/main/Capstan/PS-1.md)
+##### 🎯 Goal: Understand **text → music generation using Suno**
 
 ---
 
-#### 🟡 Intermediate
+### 📘 Chapters
 
-* [Multi-style music/song generator](https://github.com/fromsantanu/AI-Based-Music-Generation/blob/main/Capstan/PS-2.md)
+1.1 Introduction to AI Music
+1.2 How Suno Works (Conceptual Overview)
+1.3 Prompt Engineering Basics (Mood, Style, Instruments)
+1.4 First Music Generation with Suno
+1.5 Prompt Experimentation & Variations
+1.6 Understanding Output Quality
+1.7 Exercises: Generate, Compare, Analyze
 
 ---
 
-#### 🔵 Advanced
+## 🟡 LEVEL 2: Control & Reverse Engineering
 
-* [Mini Suno system - With Complete User Interface](https://github.com/fromsantanu/AI-Based-Music-Generation/blob/main/Capstan/PS-3.md)
+##### 🎯 Goal: Move from **user → controller**
 
 ---
 
-#### 🔴 Expert
+### 📘 Chapters
 
-* [Regional AI music system (extended on earlier systems) (e.g., Bengali/Raga-based)](https://github.com/fromsantanu/AI-Based-Music-Generation/blob/main/Capstan/PS-4.md)
+2.1 Breaking Down a Song (Structure: Intro, Verse, Chorus)
+2.2 Prompt → Music Mapping (How input shapes output)
+2.3 Advanced Prompt Engineering (Style blending, control)
+2.4 Debugging Outputs (Fixing bad generations)
+2.5 Limitations of Suno (Repetition, control gaps)
+2.6 Comparative Experiments (Systematic testing)
+2.7 Mini Project: Prompt Optimization System
+
+---
+
+## 🔵 LEVEL 3: Building AI Music Systems (Mini Suno)
+
+##### 🎯 Goal: Create a **complete music generation pipeline**
+
+---
+
+### 📘 Chapters
+
+3.1 System Design Overview (End-to-End Pipeline)
+3.2 Prompt Pre-processing (Improving input quality)
+3.3 Lyrics Generation (Using LLMs)
+3.4 Music Generation (Using Suno API strategically)
+3.5 Combining Music + Voice (Conceptual + practical)
+3.6 Audio Processing (Basic mixing, trimming, enhancement)
+3.7 Backend Integration (Using your existing UI)
+3.8 Workflow Automation (Batch generation, selection)
+3.9 Mini Project: Smart AI Music Generator
+
+---
+
+## 🔴 LEVEL 4: Model-Level Understanding & Innovation
+
+##### 🎯 Goal: Understand deeply + design + innovate
+
+---
+
+### 📘 Chapters
+
+4.1 End-to-End AI Music System Architecture
+4.2 Representing Music for AI (Waveform, Spectrogram, Tokens)
+4.3 Transformers for Music (Simple Explanation)
+4.4 Diffusion Models (Conceptual Understanding)
+4.5 Latent Space (How music is internally represented)
+4.6 Why MusicGen ≠ Suno (System-level comparison)
+4.7 How AI Models are Trained (Datasets, Fine-tuning basics)
+4.8 Evaluation of AI Music (Quality vs Creativity)
+4.9 Style Transfer & Regional Music (Bengali / Raga focus)
+4.10 System Design Thinking (Design your own AI music system)
+
+---
+
+# 📁 PROJECT TRACK (Capstone)
+
+---
+
+## 🟢 Beginner
+
+* Prompt-based music generator
+
+---
+
+## 🟡 Intermediate
+
+* Multi-style music/song generator
+
+---
+
+## 🔵 Advanced
+
+* Mini Suno system (with UI + workflow)
+
+---
+
+## 🔴 Expert
+
+* Regional AI music system
+  (Bengali / Raga-based / Cultural styles)
+
+---
+
+# 🎯 Final Outcome of This Course
+
+By completing all levels, a learner will be able to:
+
+* Generate music using AI
+* Control and refine outputs
+* Build AI music applications
+* Understand how systems like Suno work
+* Design their own AI music systems
 
 ---
 
