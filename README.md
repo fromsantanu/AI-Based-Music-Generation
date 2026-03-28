@@ -27,6 +27,7 @@
 
 ---
 <br>
+
 ## 🟡 LEVEL 2: Control & Reverse Engineering
 
 #### 🎯 Goal: Move from **user → controller**
@@ -51,6 +52,7 @@
 
 ---
 <br>
+
 ## 🔵 LEVEL 3: Building AI Music Systems (Mini Suno)
 
 #### 🎯 Goal: Create a **complete music generation pipeline**
@@ -79,6 +81,7 @@
 
 ---
 <br>
+
 ## 🔴 LEVEL 4: Model-Level Understanding & Innovation
 
 #### 🎯 Goal: Understand deeply + design + innovate
