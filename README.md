@@ -2,30 +2,10 @@
 
 ## 🎯 Guiding Philosophy
 
-Same as your mapping:
-
 * 🎹 Learn to generate
 * 🎼 Learn to control
 * 🎬 Learn to build systems
 * 🧠 Learn to innovate
-
----
-
-# 📁 REPOSITORY STRUCTURE (Recommended)
-
-```id="g4r2ak"
-ai-music-generation-course/
-│
-├── Level-1/
-├── Level-2/
-├── Level-3/
-├── Level-4/
-│
-├── projects/
-├── datasets/
-├── utils/
-└── README.md
-```
 
 ---
 
