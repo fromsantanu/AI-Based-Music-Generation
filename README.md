@@ -36,9 +36,9 @@
 
 ### 📘 Chapters
 
-2.1 [Breaking Down a Song (Structure: Intro, Verse, Chorus)
+2.1 [Breaking Down a Song (Structure: Intro, Verse, Chorus)](#)
 
-2.2 Prompt → Music Mapping (How input shapes output)](#)
+2.2 [Prompt → Music Mapping (How input shapes output)](#)
 
 2.3 [Advanced Prompt Engineering (Style blending, control)](#)
 
