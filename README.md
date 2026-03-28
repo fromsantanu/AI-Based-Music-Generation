@@ -127,25 +127,25 @@ ai-music-generation-course/
 
 #### 🟢 Beginner
 
-* [Prompt-based music generator](#)
+* [Prompt-based music generator](https://github.com/fromsantanu/AI-Based-Music-Generation/blob/main/Capstan/PS-1.md)
 
 ---
 
 #### 🟡 Intermediate
 
-* [Multi-style music/song generator](#)
+* [Multi-style music/song generator](https://github.com/fromsantanu/AI-Based-Music-Generation/blob/main/Capstan/PS-2.md)
 
 ---
 
 #### 🔵 Advanced
 
-* [Mini Suno system - With Complete User Interface](#)
+* [Mini Suno system - With Complete User Interface](https://github.com/fromsantanu/AI-Based-Music-Generation/blob/main/Capstan/PS-3.md)
 
 ---
 
 #### 🔴 Expert
 
-* [Regional AI music system (extended on earlier systems) (e.g., Bengali/Raga-based)](#)
+* [Regional AI music system (extended on earlier systems) (e.g., Bengali/Raga-based)](https://github.com/fromsantanu/AI-Based-Music-Generation/blob/main/Capstan/PS-4.md)
 
 ---
 
