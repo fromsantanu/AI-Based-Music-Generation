@@ -26,7 +26,7 @@
 1.7 Exercises: Generate, Compare, Analyze
 
 ---
-
+<br>
 ## 🟡 LEVEL 2: Control & Reverse Engineering
 
 #### 🎯 Goal: Move from **user → controller**
@@ -50,7 +50,7 @@
 2.7 Mini Project: Prompt Optimization System
 
 ---
-
+<br>
 ## 🔵 LEVEL 3: Building AI Music Systems (Mini Suno)
 
 #### 🎯 Goal: Create a **complete music generation pipeline**
@@ -78,7 +78,7 @@
 3.9 Mini Project: Smart AI Music Generator
 
 ---
-
+<br>
 ## 🔴 LEVEL 4: Model-Level Understanding & Innovation
 
 #### 🎯 Goal: Understand deeply + design + innovate
