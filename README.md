@@ -127,25 +127,25 @@ ai-music-generation-course/
 
 #### 🟢 Beginner
 
-* Prompt-based music generator
+* [Prompt-based music generator](#)
 
 ---
 
 #### 🟡 Intermediate
 
-* Multi-style generator
+* [Multi-style music/song generator](#)
 
 ---
 
 #### 🔵 Advanced
 
-* Mini Suno system
+* [Mini Suno system - With Complete User Interface](#)
 
 ---
 
 #### 🔴 Expert
 
-* Regional AI music system (e.g., Bengali/Raga-based)
+* [Regional AI music system (extended on earlier systems) (e.g., Bengali/Raga-based)](#)
 
 ---
 
