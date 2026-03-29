@@ -46,12 +46,6 @@ That’s exactly what we do in AI.
 
 ![Image](https://dimg.wavevisual.com/v3/von-sample-2.png?width=3840)
 
-![Image](https://www.researchgate.net/publication/331346339/figure/fig3/AS%3A808390896930816%401569746817104/Amplitude-vs-Time-plot-for-second-recorded-audio-signal-with-noise-and-hearing-aid.ppm)
-
-![Image](https://i.sstatic.net/KQQqN.png)
-
-![Image](https://www.researchgate.net/publication/259935644/figure/fig1/AS%3A669394132815882%401536607406212/Waveform-plots-of-the-audio-recordings-at-different-zoom-levels-200-ms-left-and-50-ms.ppm)
-
 ## 📌 What is a waveform?
 
 A waveform is the **raw audio signal**.
