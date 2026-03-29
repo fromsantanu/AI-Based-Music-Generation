@@ -301,11 +301,4 @@ new_audio = tokens_to_audio(generated_tokens)
 
 ---
 
-# 🚀 Next Chapter
-
-👉 **Chapter 4.3: Generative Models for Music (Transformers vs Diffusion)**
-
-This will answer:
-
-> “Once we have tokens… how does AI actually create music from them?”
 
