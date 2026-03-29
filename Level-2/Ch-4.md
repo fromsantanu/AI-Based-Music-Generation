@@ -184,8 +184,6 @@ Let’s break down the most frequent issues.
 
 # 🎼 2.5 Problem: Wrong Mood
 
-![Image](https://media.springernature.com/lw685/springer-static/image/art%3A10.1007%2Fs42452-025-07178-9/MediaObjects/42452_2025_7178_Fig5_HTML.png)
-
 ### 🔍 Symptoms
 
 * Expected “sad” but sounds happy
@@ -217,14 +215,6 @@ Let’s break down the most frequent issues.
 
 # 🧱 2.6 Problem: Structure is Missing
 
-![Image](https://www.researchgate.net/publication/269102263/figure/fig1/AS%3A295433155956755%401447448162022/According-to-several-authors-the-top-waveform-corresponds-to-music-with-dynamics.png)
-
-![Image](https://images.topmediai.com/topmediai/assets/article/typical-song-structure-arrangement.jpg)
-
-![Image](https://www.perfectcircuit.com/media/wysiwyg/articles/chaos/doublependulum-myphysicsdotcom.gif)
-
-![Image](https://www.mdpi.com/technologies/technologies-13-00016/article_deploy/html/images/technologies-13-00016-g012-550.jpg)
-
 ### 🔍 Symptoms
 
 * No intro / verse / chorus
@@ -255,16 +245,6 @@ Let’s break down the most frequent issues.
 ---
 
 # 🧪 3. Debugging Strategy (Step-by-Step)
-
-![Image](https://venngage-wordpress.s3.amazonaws.com/uploads/2023/08/Template-3-791x1024.png)
-
-![Image](https://www.researchgate.net/publication/240636997/figure/fig1/AS%3A669524835704844%401536638568275/High-level-architecture-of-the-debugging-process-against-information-flow-policies.png)
-
-![Image](https://miro.medium.com/v2/resize%3Afit%3A1200/1%2AKzyZXMKScmcwKKBEFXxk4g.jpeg)
-
-![Image](https://www.allaboutcircuits.com/uploads/thumbnails/Figure_2._Step_1-_Identify_and_label_the_current_loops_.jpg)
-
----
 
 ## 🧠 Step 1: Listen Carefully
 
