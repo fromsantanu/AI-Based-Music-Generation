@@ -119,25 +119,25 @@
 
 ## 🟢 Beginner
 
-* [Prompt-based music generator](#)
+* [Prompt-based music generator](https://github.com/fromsantanu/AI-Based-Music-Generation/blob/main/Capstan/PS-1.md)
 
 ---
 
 ## 🟡 Intermediate
 
-* [Multi-style music/song generator](#)
+* [Multi-style music/song generator](https://github.com/fromsantanu/AI-Based-Music-Generation/blob/main/Capstan/PS-2.md)
 
 ---
 
 ## 🔵 Advanced
 
-* [Mini Suno system (with UI + workflow)](#)
+* [Mini Suno system (with UI + workflow)](https://github.com/fromsantanu/AI-Based-Music-Generation/blob/main/Capstan/PS-3.md)
 
 ---
 
 ## 🔴 Expert
 
-* [Regional AI music system](#)
+* [Regional AI music system](https://github.com/fromsantanu/AI-Based-Music-Generation/blob/main/Capstan/PS-4.md)
   (Bengali / Raga-based / Cultural styles)
 
 ---
