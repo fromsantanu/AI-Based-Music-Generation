@@ -94,13 +94,7 @@ Millions of numbers ❗
 
 # 🌈 3. Representation 2: Spectrogram (Visual Sound)
 
-![Image](https://upload.wikimedia.org/wikipedia/commons/c/c5/Spectrogram-19thC.png)
-
 ![Image](https://manual.audacityteam.org/m/images/4/49/spectrogramview_11.png)
-
-![Image](https://ssp-iiith.vlabs.ac.in/exp/spectrographic-analysis/images/kitab-signalspectrogram.png)
-
-![Image](https://www.researchgate.net/publication/257879534/figure/fig2/AS%3A312699402637312%401451564755056/Details-of-the-speech-spectral-analysis-a-The-speech-spectrogram-is-analyzed.png)
 
 ## 📌 What is a spectrogram?
 
@@ -155,11 +149,6 @@ It shows:
 
 ![Image](https://ravinkumar.com/GenAiGuidebook/_images/soundstream.png)
 
-![Image](https://ravinkumar.com/GenAiGuidebook/_images/vq_wav2vec.png)
-
-![Image](https://miro.medium.com/v2/resize%3Afit%3A2000/1%2A_VkvHHh0n2niJMWPrDMbvA.png)
-
-![Image](https://static.wixstatic.com/media/2998bc_70f9815372e949ae89c63c5bca09141b~mv2.jpg/v1/fill/w_280%2Ch_180%2Cal_c%2Cq_80%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/pal.jpg)
 
 ## 📌 What are audio tokens?
 
