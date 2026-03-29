@@ -184,13 +184,7 @@ Let’s break down the most frequent issues.
 
 # 🎼 2.5 Problem: Wrong Mood
 
-![Image](https://www.researchgate.net/publication/281403058/figure/fig3/AS%3A431702410567682%401479937283902/Waveforms-and-pitch-contours-for-examples-of-the-happy-left-and-sad-right-pitch.png)
-
 ![Image](https://media.springernature.com/lw685/springer-static/image/art%3A10.1007%2Fs42452-025-07178-9/MediaObjects/42452_2025_7178_Fig5_HTML.png)
-
-![Image](https://www.earspasm.com/cdn/shop/articles/fabfilter_proq.png?v=1699341044)
-
-![Image](https://cdn.shopify.com/s/files/1/0833/5799/1202/files/partials-clarinet.jpg?v=1699341041)
 
 ### 🔍 Symptoms
 
