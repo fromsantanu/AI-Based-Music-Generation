@@ -147,8 +147,6 @@ It shows:
 
 # 🧩 4. Representation 3: Audio Tokens (Modern Approach)
 
-![Image](https://ravinkumar.com/GenAiGuidebook/_images/soundstream.png)
-
 
 ## 📌 What are audio tokens?
 
