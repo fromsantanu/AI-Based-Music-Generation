@@ -207,14 +207,6 @@ Examples:
 
 # 🧪 4. Same Prompt, Small Change → Big Difference
 
-![Image](https://www.researchgate.net/publication/269102263/figure/fig1/AS%3A295433155956755%401447448162022/According-to-several-authors-the-top-waveform-corresponds-to-music-with-dynamics.png)
-
-![Image](https://www.researchgate.net/publication/286698394/figure/fig3/AS%3A435915517632515%401480941766293/Waveforms-of-the-five-isolated-musical-sound-before-and-after-being-processed-previous.png)
-
-![Image](https://help.apple.com/assets/68389DB4C3F39646A809CC7F/68389DBC96FFB065CA03EC8D/en_US/f6adc67503ec617857d8a6f918aab121.png)
-
-![Image](https://p16-capcut-cms-sg-useast5.capcutcdn-us.com/tos-useast5-i-6rr7idwo9f-tx/1732269249737.913~tplv-6rr7idwo9f-image.image)
-
 Let’s test this idea.
 
 ---
