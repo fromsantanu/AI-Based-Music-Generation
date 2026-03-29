@@ -335,11 +335,3 @@ Create:
 
 ---
 
-## 🔜 Next Chapter
-
-👉 **3.9 Mini Project: Build Your Own Mini Suno (Complete System)**
-
-Now you will:
-
-> Combine everything into a fully working AI music generator 🎶
-
